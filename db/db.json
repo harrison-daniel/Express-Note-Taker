@@ -1,9 +1,12 @@
 [
-
     {
-        "title": "sdfsf",
-        "text": "sdfsdf",
+        "title": "Note 1",
+        "text": "This is my first note",
         "id": "73d5"
+    },
+    {
+        "title": "Note 2",
+        "text": "This is my second note",
+        "id": "fcef"
     }
-    
 ]
