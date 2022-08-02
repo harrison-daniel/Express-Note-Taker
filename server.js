@@ -5,9 +5,7 @@ const fs = require('fs');
 
 // Require the JSON file and assign it to a variable called notesData
 const notesData = require('./db/db.json');
-//  const { getNotes, saveNote, renderActiveNote } = require('./public/assets/js/index');
-const { stringify } = require('querystring');
-const { text } = require('body-parser');
+
 
 //  method for generating unique ids
 const uuidv4  = require('./helpers/uuid');
@@ -23,7 +21,6 @@ app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 
 app.use(express.static('public'));
-
 
 
 
