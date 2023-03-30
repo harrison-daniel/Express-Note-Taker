@@ -1,6 +1,6 @@
-# CH-11-Note-Taker
+# Note-Taker
 
-Create an application called Note Taker that can be used to used to write and save notes.
+Create an application that can be used to used to write and save notes.
 
 ## Deployed Website
 
